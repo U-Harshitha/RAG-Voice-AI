@@ -1,2 +1,2 @@
-# Fact-Checking-System
-Using MOE and Double Transformers
+# Rag - Voice Assistant
+Upload documents and get a voice assistant for those documents.
